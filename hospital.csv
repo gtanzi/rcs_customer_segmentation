@@ -1,0 +1,284 @@
+Age,Gender,Education,Role,AvgVisitDuration,PrescriptionAttitude,PublicationsNumber,CongressesAttended,PartnershipsPhC,CollabAttitudePhC,AvgOpenedEmail,VisitsLandingPageLY,AccessOnlineServiceLY,AttendedEventsLY,ClickthroughRate,OpenRate,EngagementDriver
+32,F,Master'sdegree,Surgeon,30.0,Neutral,10,5,3,Positive,5.0,100,100,5,0.12491714249764302,0.2926407470751735,EasyNavigation
+46,M,Bachelor'sdegree,NursePractitioner,20.0,Positive,5,2,1,Neutral,7.0,100,75,3,0.12646228533878473,0.3905718883230669,RelevantContent
+55,F,Doctorate,MedicalDirector,30.0,Negative,20,10,5,Negative,3.0,100,100,7,0.03719608507650664,0.18825551322969963,Personalization
+28,M,Bachelor'sdegree,Intern,10.0,Neutral,2,0,0,Neutral,6.0,50,25,1,0.0862915130000208,0.23885690933598547,FastLoading
+62,F,Doctorate,ChiefofMedicine,60.0,Positive,30,15,10,Positive,2.0,100,100,10,0.08960956147401837,0.36827656158860256,InteractiveDesign
+36,F,Doctorate,MedicalDirector,25.0,Positive,15,8,2,Positive,4.0,100,100,6,0.16839707736644305,0.3146876340534532,User-FriendlyInterface
+45,M,Master'sdegree,Surgeon,35.0,Neutral,5,3,0,Neutral,6.0,100,75,2,0.11581908735668928,0.2523335128849716,ResponsiveDesign
+29,F,Bachelor'sdegree,Intern,10.0,Negative,1,0,0,Negative,2.0,25,10,1,0.060293212053393545,0.1834819458138941,PersonalizedExperience
+68,M,Master'sdegree,NursePractitioner,50.0,Positive,25,12,5,Positive,3.0,100,100,9,0.06980412276751057,0.2091930804446295,High-qualityContent
+22,F,Bachelor'sdegree,Resident,10.0,Neutral,0,0,0,Neutral,8.0,20,5,1,0.060443493475443616,0.17458383645982392,SimpleNavigation
+52,M,Doctorate,ChiefofSurgery,40.0,Negative,10,5,1,Negative,1.0,100,100,7,0.06864928862539288,0.18000311013325943,Interactive
+27,M,Bachelor,Nurse,15.2,Positive,4,2,0,Neutral,6.5,20,35,4,0.0843855157767992,0.2776297243603885,Communication
+54,F,Master,Surgeon,10.8,Negative,12,5,3,Positive,8.3,50,63,8,0.05078288417395028,0.38673354390278913,Personalization
+35,M,PhD,Physician,19.1,Neutral,7,3,1,Negative,5.8,35,42,6,0.10441559425022495,0.3371367836506004,Convenience
+42,F,Bachelor,Nurse,13.7,Positive,2,1,0,Neutral,7.1,15,22,3,0.02024943860278327,0.18343363289831704,Trust
+36,F,Bachelor's,Nurse,30.0,Positive,5,2,3,Willing,2.0,20,15,5,0.25360745688569336,0.5323115852158894,Clear communication with patients
+44,M,Master's,Surgeon,45.0,Neutral,8,4,2,Unwilling,3.0,25,10,3,0.48213792588926274,0.7808672025958421,High-quality medical services
+32,F,Bachelor of Science,Nurse Practitioner,20.0,Positive,5,2,1,Neutral,2.0,8,15,3,0.21438523516835667,0.43180148686358666,Content Relevance
+44,M,Doctor of Medicine,Physician,30.0,Positive,12,5,3,Positive,5.0,12,25,5,0.2848795936361652,0.5378111927600833,Email Subject Line
+28,F,Doctor of Dental Medicine,Dentist,25.0,Negative,3,1,0,Negative,1.0,6,10,2,0.11686103927566067,0.22193432744111152,Time of Day
+52,M,Doctor of Osteopathic Medicine,Surgeon,60.0,Positive,20,10,5,Positive,8.0,20,40,10,0.059617358974448996,0.06845667935735215,Content Format
+45,F,Master of Science,Pharmacist,15.0,Neutral,8,3,2,Positive,3.0,10,20,4,0.23196544895161772,0.4039083971336129,Personalization
+37,M,Master of Science,Physician Assistant,25.0,Positive,6,2,1,Neutral,2.0,9,18,3,0.15681342442862484,0.2754841106041506,Call to Action
+29,F,Bachelor of Science,Registered Nurse,20.0,Positive,4,1,0,Negative,1.0,5,8,2,0.0191864902259115,0.03531299036168236,Social Proof
+41,M,Doctor of Dental Medicine,Dentist,45.0,Positive,10,4,2,Positive,4.0,15,30,6,0.18813068458196097,0.3432866137884645,Sender Name
+36,F,Master of Science,Pharmacist,10.0,Neutral,4,2,1,Neutral,2.0,8,16,3,0.266832761342699,0.6621579980549117,Content Relevance
+48,M,Doctor of Medicine,Physician,35.0,Positive,15,7,4,Positive,6.0,18,35,8,0.09866468887287061,0.16897817715328148,Email Subject Line
+23,M,Bachelor of Science,Medical Assistant,15.0,Positive,2,0,0,Negative,1.0,4,7,1,0.10103758190558935,0.2172709315553681,Call to Action
+39,F,Doctor of Medicine,Physician,30.0,Positive,10,3,2,Positive,4.0,14,28,5,0.3341897314397514,0.59567805859207,Content Relevance
+50,M,Doctor of Osteopathic Medicine,Surgeon,60.0,Positive,25,12,6,Positive,10.0,22,50,10,0.042873299457488155,0.12150628573842141,Personalization
+33,F,Master of Science,Pharmacist,25.0,Neutral,7,2,1,Neutral,2.0,9,20,4,0.23006823493568776,0.3871879928638006,Email Subject Line
+26,M,Bachelor of Science,Registered Nurse,20.0,Positive,3,1,0,Negative,1.0,6,10,2,0.04681613312071026,0.06999960343292638,Time of Day
+31,F,Doctor of Dental Medicine,Dentist,35.0,Positive,5,2,1,Neutral,2.0,7,15,3,0.16062689928073692,0.29923592453446446,Content Format
+42,M,Doctor of Medicine,Physician,40.0,Positive,15,6,3,Positive,6.0,18,35,7,0.18463598376830076,0.3894639119548447,Personalization
+29,F,Master of Science,Physician Assistant,30.0,Positive,6,2,1,Neutral,2.0,8,15,3,0.2415742126664383,0.478410646533497,Email Subject Line
+45,M,Doctor of Osteopathic Medicine,Surgeon,45.0,Positive,18,9,5,Positive,8.0,20,40,9,0.07026034210388864,0.13555326177535548,Content Relevance
+34,F,Doctor of Medicine,Physician,25.0,Positive,8,3,2,Positive,3.0,12,22,4,0.19541915849885244,0.4116868754746214,Call to Action
+36,M,Doctor of Dental Medicine,Dentist,35.0,Positive,10,4,2,Positive,4.0,14,30,6,0.18321269394464368,0.3727800245147994,Sender Name
+28,F,Master of Science,Pharmacist,20.0,Neutral,4,1,0,Negative,1.0,5,8,2,0.2851731925457052,0.5700958586852682,Time of Day
+40,M,Bachelor of Science,Registered Nurse,30.0,Positive,7,3,1,Neutral,3.0,10,20,4,0.30276913026091445,0.5897076089764197,Email Subject Line
+31,F,Doctor of Medicine,Physician,25.0,Positive,8,3,2,Positive,3.0,11,20,4,0.24665873932924354,0.48605349450990765,Content Format
+52,M,Doctor of Medicine,Physician,60.0,Positive,20,12,5,Positive,8.0,22,50,10,0.05560940602430646,0.09964652689072134,Personalization
+38,F,Doctor of Dental Medicine,Dentist,35.0,Positive,9,3,1,Neutral,3.0,11,22,4,0.30077525232455177,0.5964833414029609,Call to Action
+27,F,Doctor of Medicine,Physician,25.0,Positive,6,2,1,Neutral,2.0,8,15,3,0.19370361727123236,0.3788963851935385,Email Subject Line
+43,M,Doctor of Osteopathic Medicine,Surgeon,50.0,Positive,22,10,4,Positive,10.0,24,45,10,0.02348116967820299,0.08743238411075813,Personalization
+35,F,Doctor of Dental Medicine,Dentist,30.0,Positive,7,2,1,Neutral,2.0,8,18,3,0.2000254617404256,0.4360617010703306,Content Relevance
+31,M,Master of Science,Physician Assistant,25.0,Positive,5,2,1,Neutral,2.0,7,15,3,0.2493080115443333,0.48802857521672927,Email Subject Line
+47,F,Doctor of Medicine,Physician,50.0,Positive,17,8,4,Positive,8.0,20,45,9,0.0446407437597206,0.0946315768737637,Content Format
+29,M,Bachelor of Science,Registered Nurse,20.0,Positive,4,1,0,Negative,1.0,5,8,2,0.04084846733433678,0.1263687498812629,Call to Action
+32,F,Doctor of Dental Medicine,Dentist,30.0,Positive,6,2,1,Neutral,2.0,8,15,3,0.24276404441954225,0.4886202070441577,Content Relevance
+41,M,Doctor of Medicine,Physician,40.0,Positive,15,5,3,Positive,5.0,16,35,8,0.1991984792525635,0.3888910336851641,Email Subject Line
+26,F,Master of Science,Pharmacist,20.0,Neutral,3,1,0,Negative,1.0,4,8,2,0.30707710657656195,0.613474730795934,Time of Day
+44,M,Doctor of Osteopathic Medicine,Surgeon,50.0,Positive,20,9,4,Positive,9.0,22,45,10,0.030510598159532058,0.10560209515433085,Personalization
+33,F,Doctor of Dental Medicine,Dentist,30.0,Positive,8,3,1,Neutral,3.0,10,20,4,0.3075692520335916,0.5909078205564018,Content Format
+37,M,Master of Science,Physician Assistant,30.0,Positive,8,3,1,Neutral,3.0,10,20,4,0.20495754453122145,0.5115524018213589,Sender Name
+30,F,Doctor of Medicine,Physician,25.0,Positive,7,2,1,Neutral,2.0,9,17,3,0.19403117441251216,0.4161619023690449,Email Subject Line
+49,M,Doctor of Dental Medicine,Dentist,45.0,Positive,18,7,4,Positive,7.0,18,40,9,0.21155661698255956,0.35757547625000907,Call to Action
+28,F,Bachelor of Science,Registered Nurse,20.0,Positive,4,1,0,Negative,1.0,5,9,2,0.03993375870878145,0.0760237847720652,Content Relevance
+34,M,Doctor of Osteopathic Medicine,Surgeon,35.0,Positive,12,4,2,Positive,4.0,14,30,6,0.1746958528979243,0.35123835393150377,Personalization
+30,M,Doctor of Dental Medicine,Dentist,30.0,Positive,7,2,1,Neutral,2.0,8,16,3,0.3329618585921392,0.6200991110578923,Email Subject Line
+39,F,Doctor of Medicine,Physician,35.0,Positive,14,5,3,Positive,5.0,16,35,8,0.18331290370785847,0.3818222580171491,Content Relevance
+43,M,Doctor of Osteopathic Medicine,Surgeon,50.0,Positive,19,9,4,Positive,9.0,22,45,10,0.005025527922337347,0.0661824410535773,Call to Action
+31,F,Doctor of Medicine,Physician,25.0,Positive,6,2,1,Neutral,2.0,8,15,3,0.2215466488596153,0.38207444913541144,Sender Name
+28,M,Bachelor of Science,Registered Nurse,20.0,Positive,4,1,0,Negative,1.0,5,8,2,0.054368805004583326,0.06183711525182603,Content Format
+36,F,Doctor of Dental Medicine,Dentist,35.0,Positive,9,3,1,Neutral,3.0,11,22,4,0.3174741042739721,0.6311768026434366,Time of Day
+42,M,Doctor of Medicine,Physician,40.0,Positive,17,7,4,Positive,7.0,18,40,9,0.19508770624232608,0.3720734439286936,Personalization
+27,F,Master of Science,Physician Assistant,25.0,Positive,5,2,1,Neutral,2.0,7,15,3,0.32464790047414177,0.5891199398001089,Content Relevance
+38,M,Doctor of Dental Medicine,Dentist,30.0,Positive,10,4,2,Positive,4.0,13,25,6,0.1718302738015003,0.3332986127748846,Email Subject Line
+32,F,Doctor of Medicine,Physician,30.0,Positive,7,2,1,Neutral,2.0,9,16,3,0.19851223622990125,0.4027679689135875,Content Format
+29,M,Doctor of Osteopathic Medicine,Surgeon,25.0,Positive,5,2,0,Negative,2.0,6,11,2,0.04716710835767809,0.11019842169212812,Call to Action
+26,F,Doctor of Dental Medicine,Dentist,20.0,Neutral,3,1,0,Negative,1.0,4,8,2,0.28436289862810066,0.5786811210651439,Sender Name
+44,M,Doctor of Medicine,Physician,45.0,Positive,19,8,4,Positive,8.0,20,45,10,0.06396410167853998,0.11557643754289634,Content Relevance
+33,F,Doctor of Dental Medicine,Dentist,30.0,Positive,8,3,1,Neutral,3.0,10,20,4,0.3092287862759214,0.6172857785079298,Personalization
+40,M,Doctor of Medicine,Physician,40.0,Positive,16,6,3,Positive,6.0,15,35,8,0.20255671858467678,0.36819397125832676,Time of Day
+27,F,Bachelor of Science,Registered Nurse,20.0,Positive,4,1,0,Negative,1.0,5,9,2,0.03131812417084797,0.0664074964298977,Call to Action
+34,F,Master of Science,Physician Assistant,30.0,Positive,6,2,1,Neutral,2.0,8,15,3,0.21925964475182375,0.3885561270695783,Content Format
+41,M,Doctor of Medicine,Physician,35.0,Positive,15,5,3,Positive,5.0,17,38,9,0.3028673269226633,0.6085978452408781,Email Subject Line
+29,F,Doctor of Dental Medicine,Dentist,25.0,Positive,5,2,1,Neutral,2.0,7,14,3,0.0224105895698144,0.07546014983104996,Content Relevance
+37,M,Doctor of Medicine,Physician,35.0,Positive,11,4,2,Positive,4.0,14,28,6,0.1799444261883502,0.36673147942964507,Call to Action
+28,F,Bachelor of Science,Registered Nurse,20.0,Positive,4,1,0,Negative,1.0,5,9,2,0.30798848264286405,0.6100952919472905,Time of Day
+32,M,Doctor of Dental Medicine,Dentist,30.0,Positive,8,3,1,Neutral,3.0,11,20,4,0.039165037084119066,0.13793807285257567,Content Format
+30,F,Doctor of Medicine,Physician,25.0,Positive,7,2,1,Neutral,2.0,8,15,3,0.15590966165930603,0.409176662208954,Content Relevance
+35,M,Doctor of Osteopathic Medicine,Surgeon,40.0,Positive,10,4,1,Neutral,4.0,12,25,5,0.3170828608828402,0.57862149891178,Personalization
+39,F,Doctor of Medicine,Physician,35.0,Positive,13,5,3,Positive,5.0,16,36,8,0.19860625694277012,0.39125041796369403,Time of Day
+26,M,Doctor of Dental Medicine,Dentist,20.0,Neutral,3,1,0,Negative,1.0,4,8,2,0.29150596393791844,0.5763499366909708,Email Subject Line
+43,F,Doctor of Osteopathic Medicine,Surgeon,50.0,Positive,18,9,4,Positive,9.0,22,43,10,0.048984660900469476,0.09241715641845798,Content Format
+31,M,Doctor of Medicine,Physician,25.0,Positive,6,2,1,Neutral,2.0,9,16,3,0.2719818488295178,0.5909262558508401,Call to Action
+33,F,Doctor of Dental Medicine,Dentist,30.0,Positive,7,3,1,Neutral,3.0,10,18,4,0.22685693613030267,0.41931172830301267,Sender Name
+42,M,Doctor of Medicine,Physician,40.0,Positive,16,7,3,Positive,7.0,19,42,9,0.312890715976937,0.6117202340733945,Content Relevance
+27,F,Bachelor of Science,Registered Nurse,20.0,Positive,4,1,0,Negative,1.0,5,9,2,0.060073103681538224,0.11421222018041177,Personalization
+35,M,Doctor of Dental Medicine,Dentist,35.0,Positive,10,4,1,Neutral,4.0,13,28,6,0.3205167449774471,0.6272932303211212,Time of Day
+30,M,Doctor of Medicine,Physician,25.0,Positive,7,2,1,Neutral,2.0,9,16,3,0.18997031364259756,0.38856914126968056,Content Format
+38,F,Master of Science,Physician Assistant,35.0,Positive,12,4,2,Positive,4.0,15,31,7,0.30435071657846335,0.6060923988076194,Email Subject Line
+29,M,Doctor of Dental Medicine,Dentist,25.0,Positive,6,2,1,Neutral,2.0,8,15,3,0.042556870724403485,0.06638031034656591,Content Relevance
+40,F,Doctor of Medicine,Physician,35.0,Positive,14,5,3,Positive,5.0,17,37,8,0.20013617134782066,0.36818927420276265,Call to Action
+31,M,Doctor of Medicine,Physician,30.0,Positive,7,2,1,Neutral,2.0,8,15,3,0.3141660276675926,0.5770034403216618,Personalization
+36,F,Doctor of Dental Medicine,Dentist,30.0,Positive,9,3,1,Neutral,3.0,12,21,4,0.19115774226136586,0.38679742754976154,Sender Name
+33,M,Doctor of Medicine,Physician,30.0,Positive,7,3,1,Neutral,3.0,10,18,4,0.27626745863025426,0.5890412943916732,Content Relevance
+31,F,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,7,3,1,Neutral,3.0,10,18,4,0.06264635271190402,0.12672924079909406,Content Format
+29,M,Doctor of Medicine,Physician,25.0,Positive,6,2,1,Neutral,2.0,8,15,3,0.21546865038302263,0.38120077678456743,Time of Day
+35,F,Doctor of Dental Medicine,Dentist,35.0,Positive,10,4,1,Neutral,4.0,13,27,6,0.2710599732184396,0.5957357222170017,Email Subject Line
+40,M,Doctor of Medicine,Physician,35.0,Positive,12,4,2,Positive,4.0,15,32,7,0.15212437979526786,0.4072213903255214,Content Relevance
+26,F,Bachelor of Science,Registered Nurse,20.0,Positive,4,1,0,Negative,1.0,5,10,2,0.017373506202798657,0.08656663275016883,Personalization
+34,M,Doctor of Dental Medicine,Dentist,30.0,Positive,8,3,1,Neutral,3.0,11,19,4,0.1821414759429303,0.4040616086381538,Call to Action
+28,F,Doctor of Medicine,Physician,25.0,Positive,5,2,1,Neutral,2.0,7,14,3,0.2972924741048362,0.6274036241460166,Content Format
+33,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,8,3,1,Neutral,3.0,11,20,4,0.03963491470285564,0.08288358700539815,Sender Name
+39,F,Doctor of Medicine,Physician,35.0,Positive,13,5,3,Positive,5.0,16,35,8,0.30842338707267297,0.6055437674014992,Content Relevance
+27,F,Doctor of Medicine,Physician,20.0,Positive,5,2,1,Neutral,2.0,7,14,3,0.25645604411982564,0.5780761227820109,Content Format
+32,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,8,3,1,Neutral,3.0,11,19,4,0.18379426843674612,0.3855241132704619,Call to Action
+35,F,Doctor of Dental Medicine,Dentist,35.0,Positive,10,4,1,Neutral,4.0,13,27,6,0.2870603382119449,0.6213414274182171,Email Subject Line
+39,M,Doctor of Medicine,Physician,35.0,Positive,13,5,3,Positive,5.0,16,35,8,0.2021626295104342,0.4035174607064906,Content Relevance
+26,F,Bachelor of Science,Registered Nurse,20.0,Positive,4,1,0,Negative,1.0,5,10,2,0.03354833150911445,0.07239410095795865,Personalization
+34,M,Doctor of Dental Medicine,Dentist,30.0,Positive,8,3,1,Neutral,3.0,11,19,4,0.2336005103526279,0.4439500017292981,Sender Name
+28,F,Doctor of Medicine,Physician,25.0,Positive,5,2,1,Neutral,2.0,7,14,3,0.31584786198643655,0.5823748535838789,Content Format
+33,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,8,3,1,Neutral,3.0,11,20,4,0.08311046409128844,0.08240465718253515,Sender Name
+39,F,Doctor of Medicine,Physician,35.0,Positive,13,5,3,Positive,5.0,16,35,8,0.32793139706758956,0.5626067164650854,Content Relevance
+28,M,Doctor of Dental Medicine,Dentist,20.0,Neutral,4,1,0,Negative,1.0,5,10,2,0.19221315439047584,0.39969239913422877,Content Format
+26,F,Doctor of Medicine,Physician,20.0,Positive,5,2,1,Neutral,2.0,7,14,3,0.32013410919886093,0.5638300821146247,Call to Action
+31,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,7,3,1,Neutral,3.0,10,18,4,0.03261265558330445,0.0860558392236834,Content Relevance
+35,F,Doctor of Dental Medicine,Dentist,35.0,Positive,10,4,1,Neutral,4.0,13,27,6,0.27917306938215863,0.5934764385706354,Email Subject Line
+40,M,Doctor of Medicine,Physician,35.0,Positive,12,4,2,Positive,4.0,15,32,7,0.15595266317709333,0.3720103714286411,Content Format
+26,F,Bachelor of Science,Registered Nurse,20.0,Positive,4,1,0,Negative,1.0,5,10,2,0.03824889375972247,0.08249651835992977,Personalization
+34,M,Doctor of Dental Medicine,Dentist,30.0,Positive,8,3,1,Neutral,3.0,11,19,4,0.16601482274394547,0.3903040699068674,Sender Name
+30,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,7,3,1,Neutral,3.0,10,18,4,0.32378250717007184,0.6059654162905459,Content Relevance
+33,F,Doctor of Dental Medicine,Dentist,30.0,Positive,8,3,1,Neutral,3.0,11,20,4,0.05872655016512304,0.12127721505804358,Sender Name
+38,M,Doctor of Medicine,Physician,35.0,Positive,12,4,2,Positive,4.0,15,32,7,0.21380284704590372,0.438976777530666,Call to Action
+29,F,Doctor of Dental Medicine,Dentist,20.0,Neutral,4,1,0,Negative,1.0,5,10,2,0.22142009605139043,0.4037371569390819,Content Format
+27,M,Doctor of Medicine,Physician,25.0,Positive,5,2,1,Neutral,2.0,7,14,3,0.2794997302165877,0.6032099627154994,Content Format
+34,F,Bachelor of Science,Registered Nurse,30.0,Positive,8,3,1,Neutral,3.0,11,19,4,0.17810728499027267,0.4082081734120734,Sender Name
+36,M,Doctor of Dental Medicine,Dentist,35.0,Positive,10,4,1,Neutral,4.0,13,27,6,0.3237565287126912,0.622133770041601,Email Subject Line
+31,F,Doctor of Medicine,Physician,25.0,Positive,6,2,1,Neutral,2.0,8,15,3,0.04337767345369346,0.11607794729955523,Personalization
+40,M,Doctor of Medicine,Physician,35.0,Positive,13,5,3,Positive,5.0,16,35,8,0.26718160180704753,0.6003868159165018,Content Relevance
+29,F,Doctor of Dental Medicine,Dentist,20.0,Neutral,4,1,0,Negative,1.0,5,10,2,0.20312040031866677,0.43919255213416925,Content Format
+33,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,7,3,1,Neutral,3.0,10,18,4,0.039369720419768134,0.11524562296356433,Content Relevance
+37,F,Doctor of Dental Medicine,Dentist,35.0,Positive,11,4,1,Neutral,4.0,14,30,7,0.22807508887779224,0.4114053660574759,Call to Action
+24,M,Doctor of Medicine,Physician,20.0,Neutral,3,1,0,Negative,1.0,4,8,2,0.08453222969312581,0.16569806386445723,Sender Name
+30,F,Doctor of Medicine,Physician,25.0,Positive,6,2,1,Neutral,2.0,8,15,3,0.34175354130989866,0.6141808130871853,Content Format
+35,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,8,3,1,Neutral,3.0,11,19,4,0.18175575548070974,0.39194699818207596,Email Subject Line
+39,F,Bachelor of Science,Registered Nurse,35.0,Positive,11,4,1,Neutral,4.0,14,29,7,0.28239667111529576,0.6280340066051986,Content Relevance
+37,M,Doctor of Medicine,Physician,35.0,Positive,11,4,2,Positive,4.0,14,28,6,0.29281029240917694,0.5927447869322762,Content Relevance
+32,F,Doctor of Medicine,Physician,25.0,Positive,6,2,1,Neutral,2.0,8,16,3,0.02076107585709108,0.12855516184661303,Personalization
+35,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,8,3,1,Neutral,3.0,11,19,4,0.19731909379939255,0.4022521528442889,Call to Action
+27,F,Doctor of Dental Medicine,Dentist,20.0,Neutral,4,1,0,Negative,1.0,5,10,2,0.02279066329724446,0.08322834955446512,Content Relevance
+29,M,Doctor of Medicine,Physician,25.0,Positive,5,2,1,Neutral,2.0,7,14,3,0.2960868610589681,0.6096414798737225,Sender Name
+34,F,Doctor of Dental Medicine,Dentist,30.0,Positive,8,3,1,Neutral,3.0,11,19,4,0.07229187824902666,0.09056222630140155,Content Format
+28,M,Doctor of Medicine,Physician,20.0,Neutral,3,1,0,Negative,1.0,4,8,2,0.03983448578675474,0.10488677096739592,Content Format
+36,F,Doctor of Medicine,Physician,35.0,Positive,10,4,1,Neutral,4.0,13,26,6,0.30037375605158617,0.618338187100466,Email Subject Line
+41,M,Doctor of Dental Medicine,Dentist,40.0,Positive,14,6,4,Positive,6.0,18,40,9,0.2928483682236334,0.5641466418253187,Personalization
+30,F,Doctor of Medicine,Physician,25.0,Positive,6,2,1,Neutral,2.0,8,16,3,0.1768375560866988,0.3930604225791634,Content Format
+33,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,7,3,1,Neutral,3.0,10,18,4,0.04793974841015168,0.10620076976509873,Call to Action
+38,F,Bachelor of Science,Registered Nurse,35.0,Positive,12,4,2,Positive,4.0,15,31,7,0.2560360009623152,0.5935664943985605,Sender Name
+25,M,Doctor of Dental Medicine,Dentist,20.0,Neutral,3,1,0,Negative,1.0,4,9,2,0.012718417968884087,0.11315002619715059,Content Relevance
+31,F,Doctor of Medicine,Physician,25.0,Positive,6,2,1,Neutral,2.0,8,15,3,0.31307745658796604,0.6234917113171375,Content Relevance
+35,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,8,3,1,Neutral,3.0,11,20,4,0.1937551750624871,0.4343689037104011,Email Subject Line
+39,F,Doctor of Dental Medicine,Dentist,35.0,Positive,11,4,1,Neutral,4.0,14,29,7,0.3438717196334626,0.6140494182150493,Call to Action
+27,F,Doctor of Dental Medicine,Dentist,20.0,Neutral,4,1,0,Negative,1.0,5,10,2,0.041926749377311764,0.08158636008302592,Content Relevance
+29,M,Doctor of Medicine,Physician,25.0,Positive,5,2,1,Neutral,2.0,7,14,3,0.32748204527217173,0.6199535805727677,Sender Name
+34,F,Doctor of Dental Medicine,Dentist,30.0,Positive,8,3,1,Neutral,3.0,11,19,4,0.037408508316452024,0.09545919893492842,Content Format
+28,M,Doctor of Medicine,Physician,20.0,Neutral,3,1,0,Negative,1.0,4,8,2,0.013934729774159264,0.09287730065307172,Content Format
+36,F,Doctor of Medicine,Physician,35.0,Positive,10,4,1,Neutral,4.0,13,26,6,0.32655899367323,0.6114965413445154,Email Subject Line
+41,M,Doctor of Dental Medicine,Dentist,40.0,Positive,14,6,4,Positive,6.0,18,40,9,0.3133000787713226,0.5840115383740335,Personalization
+30,F,Doctor of Medicine,Physician,25.0,Positive,6,2,1,Neutral,2.0,8,16,3,0.16583195469224024,0.37936319687453796,Content Format
+33,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,7,3,1,Neutral,3.0,10,18,4,0.05414675575915938,0.12666250676922872,Call to Action
+38,F,Bachelor of Science,Registered Nurse,35.0,Positive,12,4,2,Positive,4.0,15,31,7,0.3316425675871853,0.5641682818020006,Sender Name
+25,M,Doctor of Dental Medicine,Dentist,20.0,Neutral,3,1,0,Negative,1.0,4,9,2,0.025710509925679574,0.10820928606713709,Content Relevance
+31,F,Doctor of Medicine,Physician,25.0,Positive,6,2,1,Neutral,2.0,8,15,3,0.2729934220318351,0.6073721216346338,Content Relevance
+35,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,8,3,1,Neutral,3.0,11,20,4,0.17983570270187932,0.37967552532582877,Email Subject Line
+39,F,Doctor of Dental Medicine,Dentist,35.0,Positive,11,4,1,Neutral,4.0,14,29,7,0.2617041053322837,0.6087918497966968,Call to Action
+26,M,Doctor of Medicine,Physician,20.0,Neutral,2,1,0,Negative,1.0,3,7,2,0.027652508643140082,0.0944237051736366,Personalization
+30,F,Doctor of Osteopathic Medicine,Surgeon,25.0,Positive,6,2,1,Neutral,2.0,8,16,3,0.17569107317368265,0.3747833236870389,Call to Action
+33,M,Bachelor of Science,Registered Nurse,30.0,Positive,7,3,1,Neutral,3.0,10,18,4,0.05322520288804258,0.12489255820411645,Content Relevance
+40,F,Doctor of Medicine,Physician,40.0,Positive,12,5,2,Positive,5.0,17,38,8,0.25338929929038717,0.6148225124896444,Sender Name
+27,M,Doctor of Medicine,Physician,20.0,Neutral,3,1,0,Negative,1.0,5,10,2,0.03671365439400122,0.09854014714234113,Content Relevance
+34,F,Doctor of Dental Medicine,Dentist,30.0,Positive,8,3,1,Neutral,3.0,12,22,5,0.1849321026010123,0.38378979292952903,Personalization
+29,M,Doctor of Medicine,Physician,25.0,Positive,5,2,1,Neutral,2.0,7,14,3,0.08095904182797181,0.12346160577047995,Content Format
+32,F,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,7,3,1,Neutral,3.0,10,18,4,0.05464105787260553,0.05301854817862161,Content Relevance
+36,M,Doctor of Medicine,Physician,35.0,Positive,10,4,1,Neutral,4.0,13,27,6,0.30713535819979043,0.5853191167214323,Email Subject Line
+37,F,Doctor of Dental Medicine,Dentist,35.0,Positive,11,4,1,Neutral,4.0,14,28,7,0.27605043102083676,0.5880272570903462,Personalization
+28,M,Bachelor of Science,Registered Nurse,20.0,Neutral,2,1,0,Negative,1.0,3,7,2,0.036673936723302394,0.10297378761988045,Content Relevance
+33,F,Doctor of Medicine,Physician,30.0,Positive,7,3,1,Neutral,3.0,10,19,4,0.22256647105133145,0.39683340770691394,Personalization
+40,M,Doctor of Dental Medicine,Dentist,35.0,Positive,12,5,2,Positive,5.0,17,36,8,0.2841769887123419,0.6152614690894086,Content Format
+26,F,Doctor of Osteopathic Medicine,Surgeon,20.0,Neutral,3,1,0,Negative,1.0,5,11,2,0.06036768154506213,0.125963559407438,Content Relevance
+31,M,Doctor of Medicine,Physician,25.0,Positive,6,2,1,Neutral,2.0,8,16,3,0.03905838376542111,0.11934274756793037,Email Subject Line
+35,F,Doctor of Dental Medicine,Dentist,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.3148242179686189,0.6242981334189872,Content Relevance
+29,M,Doctor of Medicine,Physician,25.0,Positive,5,2,1,Neutral,2.0,7,14,3,0.030932675997092485,0.10243823412179676,Personalization
+38,F,Doctor of Medicine,Physician,35.0,Positive,12,4,2,Positive,4.0,15,32,7,0.3111493525128774,0.604505961948734,Content Format
+27,M,Doctor of Dental Medicine,Dentist,20.0,Neutral,3,1,0,Negative,1.0,4,9,2,0.07057017999799764,0.0970521899773389,Email Subject Line
+32,F,Doctor of Dental Medicine,Dentist,30.0,Positive,7,3,1,Neutral,3.0,10,18,4,0.0567233679828145,0.13991728270509443,Personalization
+33,M,Doctor of Medicine,Physician,30.0,Positive,8,3,1,Neutral,3.0,11,21,5,0.24497129618301766,0.4101388706472419,Email Subject Line
+35,F,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.22145790164525897,0.43389330363647194,Content Relevance
+28,M,Doctor of Medicine,Physician,20.0,Neutral,2,1,0,Negative,1.0,4,8,2,0.046721517487438025,0.08017412804219255,Email Subject Line
+36,F,Doctor of Dental Medicine,Dentist,35.0,Positive,10,4,1,Neutral,4.0,13,26,6,0.32533367892984427,0.5938143804556851,Content Format
+39,M,Doctor of Medicine,Physician,40.0,Positive,12,5,2,Positive,5.0,18,38,8,0.32776003247261504,0.5723482000024344,Sender Name
+31,F,Doctor of Dental Medicine,Dentist,25.0,Positive,6,2,1,Neutral,2.0,9,17,3,0.06014068181694927,0.07344579160405769,Personalization
+29,M,Doctor of Medicine,Physician,25.0,Positive,5,2,1,Neutral,2.0,7,15,3,0.04488223764215935,0.09784872830423064,Content Format
+34,F,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.20456604612502655,0.42907594628723683,Personalization
+27,M,Bachelor of Science,Registered Nurse,20.0,Neutral,3,1,0,Negative,1.0,3,6,2,0.0286421241589682,0.07972907221754011,Content Relevance
+32,F,Doctor of Dental Medicine,Dentist,30.0,Positive,7,3,1,Neutral,3.0,10,18,4,0.041652164790599286,0.1089104628935472,Email Subject Line
+37,M,Doctor of Medicine,Physician,35.0,Positive,11,4,1,Neutral,4.0,14,30,7,0.32522826986104286,0.6021068688243336,Content Relevance
+38,F,Doctor of Dental Medicine,Dentist,35.0,Positive,12,4,2,Positive,4.0,15,33,7,0.306969789017601,0.6449298018624754,Content Format
+26,M,Doctor of Medicine,Physician,20.0,Neutral,2,1,0,Negative,1.0,4,8,2,0.043967918801608434,0.10761346056707126,Email Subject Line
+31,F,Doctor of Dental Medicine,Dentist,25.0,Positive,6,2,1,Neutral,2.0,9,17,3,0.07914382883750845,0.10889445729289579,Content Relevance
+35,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.19685282729335923,0.37976057578932365,Personalization
+29,M,Doctor of Medicine,Physician,25.0,Positive,5,2,1,Neutral,2.0,7,15,3,0.08635000068879856,0.11260292151411833,Sender Name
+32,F,Doctor of Dental Medicine,Dentist,30.0,Positive,7,3,1,Neutral,3.0,10,18,4,0.031214339219858254,0.11234533401272064,Content Relevance
+33,M,Doctor of Medicine,Physician,30.0,Positive,8,3,1,Neutral,3.0,11,21,5,0.18556449812730788,0.40558744553942555,Personalization
+35,F,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.20814117254878367,0.40813244917582103,Email Subject Line
+28,M,Doctor of Medicine,Physician,20.0,Neutral,2,1,0,Negative,1.0,4,8,2,0.06284828730718174,0.08548614063618136,Content Format
+36,F,Doctor of Dental Medicine,Dentist,35.0,Positive,10,4,1,Neutral,4.0,13,26,6,0.27739178216401766,0.6116993514894827,Content Relevance
+39,M,Doctor of Medicine,Physician,40.0,Positive,12,5,2,Positive,5.0,18,38,8,0.29136118990833615,0.5984930185449434,Email Subject Line
+31,F,Doctor of Dental Medicine,Dentist,25.0,Positive,6,2,1,Neutral,2.0,9,17,3,0.0588038187311294,0.1207174917877922,Sender Name
+29,M,Doctor of Medicine,Physician,25.0,Positive,5,2,1,Neutral,2.0,7,15,3,0.07958432178551271,0.1203494601239194,Content Format
+34,F,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.1789047961066739,0.4084290407740114,Content Relevance
+27,M,Bachelor of Science,Registered Nurse,20.0,Neutral,3,1,0,Negative,1.0,3,6,2,0.06616203392124467,0.09178061219530606,Personalization
+32,F,Doctor of Dental Medicine,Dentist,30.0,Positive,7,3,1,Neutral,3.0,10,18,4,0.0466672108413733,0.11148428360143822,Content Format
+37,M,Doctor of Medicine,Physician,35.0,Positive,11,4,1,Neutral,4.0,14,30,7,0.2832787559128732,0.5869088277942486,Personalization
+38,F,Doctor of Dental Medicine,Dentist,35.0,Positive,12,4,2,Positive,4.0,15,33,7,0.29113367253747446,0.5746760354720148,Email Subject Line
+26,M,Doctor of Medicine,Physician,20.0,Neutral,2,1,0,Negative,1.0,4,8,2,0.049132502403823795,0.09586288769882985,Content Relevance
+31,F,Doctor of Dental Medicine,Dentist,25.0,Positive,6,2,1,Neutral,2.0,9,17,3,0.05425107273675835,0.13695912296494928,Sender Name
+32,F,Doctor of Dental Medicine,Dentist,30.0,Positive,7,3,1,Neutral,3.0,10,18,4,0.05018048272449339,0.10033718805329321,Personalization
+29,M,Doctor of Medicine,Physician,25.0,Positive,5,2,1,Neutral,2.0,7,15,3,0.06767112522432517,0.08532679520895942,Content Relevance
+33,F,Doctor of Dental Medicine,Dentist,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.17997557512677964,0.39381673631174224,Email Subject Line
+36,M,Doctor of Medicine,Physician,35.0,Positive,10,4,1,Neutral,4.0,13,26,6,0.32498579695080565,0.5965209135856704,Content Relevance
+40,F,Doctor of Dental Medicine,Dentist,40.0,Positive,13,5,2,Positive,5.0,20,41,9,0.3017038312820458,0.6199446670268626,Sender Name
+30,M,Doctor of Medicine,Physician,25.0,Positive,6,2,1,Neutral,2.0,9,17,3,0.0400965281076796,0.10046004000679652,Content Format
+28,F,Doctor of Osteopathic Medicine,Surgeon,20.0,Neutral,2,1,0,Negative,1.0,4,8,2,0.05346910286246461,0.10854337786173932,Email Subject Line
+31,M,Doctor of Dental Medicine,Dentist,25.0,Positive,6,2,1,Neutral,2.0,9,17,3,0.08246606252085409,0.11510017643880742,Personalization
+35,F,Doctor of Medicine,Physician,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.17644472079997925,0.3847432575805834,Content Format
+39,M,Doctor of Dental Medicine,Dentist,35.0,Positive,11,4,1,Neutral,4.0,14,30,7,0.2898144296823224,0.6147792661841817,Sender Name
+32,F,Doctor of Medicine,Physician,30.0,Positive,7,3,1,Neutral,3.0,10,18,4,0.06140317173129601,0.1033357940508361,Content Relevance
+28,M,Doctor of Dental Medicine,Dentist,20.0,Neutral,2,1,0,Negative,1.0,4,8,2,0.03689037109456784,0.11304473937794338,Personalization
+37,F,Doctor of Medicine,Physician,35.0,Positive,12,4,2,Positive,4.0,15,33,7,0.32280869418717245,0.6205042686984399,Content Format
+31,M,Doctor of Dental Medicine,Dentist,25.0,Positive,6,2,1,Neutral,2.0,9,17,3,0.05843744683485094,0.09229582437739223,Sender Name
+36,F,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,9,4,1,Neutral,4.0,12,23,5,0.21385449375183904,0.395648949961957,Email Subject Line
+29,M,Doctor of Dental Medicine,Dentist,25.0,Positive,5,2,1,Neutral,2.0,7,15,3,0.022209547796306437,0.0765690010965569,Content Format
+29,F,Doctor of Dental Medicine,Dentist,25.0,Positive,5,2,1,Neutral,2.0,7,15,3,0.07205732137194912,0.09859749167528446,Sender Name
+31,M,Doctor of Osteopathic Medicine,Surgeon,25.0,Positive,6,2,1,Neutral,2.0,9,17,3,0.022317298030156734,0.10088811433317034,Content Format
+37,F,Doctor of Medicine,Physician,35.0,Positive,11,4,1,Neutral,4.0,14,30,7,0.3016130326836481,0.6254371789070864,Personalization
+30,M,Doctor of Dental Medicine,Dentist,25.0,Positive,6,2,1,Neutral,2.0,9,17,3,0.07060467755065919,0.11243469615060092,Content Relevance
+34,F,Doctor of Medicine,Physician,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.1795607535751641,0.3802616674984921,Email Subject Line
+28,M,Doctor of Dental Medicine,Dentist,20.0,Neutral,2,1,0,Negative,1.0,4,8,2,0.05069202353759171,0.11288153104416185,Sender Name
+31,F,Doctor of Medicine,Physician,25.0,Positive,6,2,1,Neutral,2.0,9,17,3,0.0702709196127567,0.11275349206141697,Personalization
+35,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,9,4,1,Neutral,4.0,12,23,5,0.19102039237192311,0.3754797490181385,Content Relevance
+30,F,Doctor of Dental Medicine,Dentist,25.0,Positive,5,2,1,Neutral,2.0,7,15,3,0.05598720571204735,0.10104324552314287,Content Format
+33,M,Doctor of Medicine,Physician,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.21386895103721562,0.38957355713891895,Personalization
+39,F,Doctor of Dental Medicine,Dentist,35.0,Positive,11,4,1,Neutral,4.0,14,30,7,0.290460634031215,0.5949338352235506,Email Subject Line
+34,M,Doctor of Medicine,Physician,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.19476464724082543,0.39062869485091756,Sender Name
+32,F,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,7,3,1,Neutral,3.0,10,18,4,0.08005691537618219,0.11700938806786287,Content Relevance
+26,M,Doctor of Medicine,Physician,20.0,Neutral,2,1,0,Negative,1.0,4,8,2,0.016316563555495302,0.08188469007454066,Email Subject Line
+33,F,Doctor of Dental Medicine,Dentist,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.19362890664167803,0.39164341137435776,Content Format
+27,M,Doctor of Medicine,Physician,20.0,Neutral,2,1,0,Negative,1.0,4,8,2,0.04858616706672074,0.10666320588635081,Personalization
+29,F,Doctor of Dental Medicine,Dentist,20.0,Neutral,2,1,0,Negative,1.0,4,8,2,0.041173370824092684,0.10601350888346475,Content Relevance
+35,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,9,4,1,Neutral,4.0,12,23,5,0.1781541241214559,0.3917089928291619,Email Subject Line
+31,F,Doctor of Medicine,Physician,25.0,Positive,6,2,1,Neutral,2.0,9,17,3,0.06565553481891484,0.13070587258768618,Sender Name
+34,M,Doctor of Dental Medicine,Dentist,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.18623523971934933,0.39990404713966843,Content Format
+28,F,Doctor of Osteopathic Medicine,Surgeon,20.0,Neutral,2,1,0,Negative,1.0,4,8,2,0.09712324828080499,0.10522649852302783,Personalization
+33,M,Doctor of Medicine,Physician,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.2425556438144081,0.3984159587809283,Content Relevance
+30,F,Doctor of Dental Medicine,Dentist,25.0,Positive,6,2,1,Neutral,2.0,9,17,3,0.056218803721695056,0.1280159469633979,Email Subject Line
+34,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.2089766250015746,0.38051641154180027,Sender Name
+27,F,Doctor of Medicine,Physician,20.0,Neutral,2,1,0,Negative,1.0,4,8,2,0.05820903631316464,0.11174962107594152,Content Format
+33,M,Doctor of Dental Medicine,Dentist,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.17936025950523382,0.3837802669780896,Personalization
+26,F,Doctor of Osteopathic Medicine,Surgeon,20.0,Neutral,2,1,0,Negative,1.0,4,8,2,0.07344706469487675,0.09492289383250377,Content Relevance
+29,M,Doctor of Medicine,Physician,25.0,Positive,5,2,1,Neutral,2.0,7,15,3,0.016984476341095206,0.0809095900978751,Email Subject Line
+34,F,Doctor of Dental Medicine,Dentist,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.1759332756694422,0.4187493433159964,Sender Name
+35,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,9,4,1,Neutral,4.0,12,23,5,0.19564789564283563,0.4049577677184996,Content Format
+33,F,Doctor of Medicine,Physician,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.24167789190874953,0.3909027619607387,Personalization
+30,M,Doctor of Dental Medicine,Dentist,25.0,Positive,6,2,1,Neutral,2.0,9,17,3,0.009186337667677257,0.08745201332424027,Content Relevance
+38,F,Doctor of Medicine,Physician,25.0,Positive,7,3,1,Neutral,3.0,10,18,4,0.15772789279067562,0.26457094137418313,Email Subject Line
+40,M,Doctor of Dental Medicine,Dentist,30.0,Positive,9,4,1,Neutral,4.0,12,23,5,0.18597468285614782,0.3954437064382921,Content Format
+32,F,Doctor of Osteopathic Medicine,Surgeon,20.0,Neutral,2,1,0,Negative,1.0,4,8,2,0.026355902384151666,0.10755191513231799,Personalization
+33,M,Doctor of Medicine,Physician,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.20657101965923413,0.36991516527956836,Content Relevance
+29,F,Doctor of Dental Medicine,Dentist,20.0,Neutral,2,1,0,Negative,1.0,4,8,2,0.014338106250669502,0.06295982350512697,Sender Name
+35,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,9,4,1,Neutral,4.0,12,23,5,0.1782093832537058,0.3815156050118017,Email Subject Line
+31,F,Doctor of Medicine,Physician,25.0,Positive,6,2,1,Neutral,2.0,9,17,3,0.02824369812053079,0.10422368318133625,Content Format
+34,M,Doctor of Dental Medicine,Dentist,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.21257411121405118,0.4146612644909115,Personalization
+27,F,Doctor of Osteopathic Medicine,Surgeon,20.0,Neutral,2,1,0,Negative,1.0,4,8,2,0.019851984440895417,0.07588833741902133,Content Relevance
+33,M,Doctor of Medicine,Physician,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.20127812781043838,0.3792651828809992,Sender Name
+30,F,Doctor of Dental Medicine,Dentist,25.0,Positive,6,2,1,Neutral,2.0,9,17,3,0.04278322386377904,0.10956979209287064,Email Subject Line
+34,M,Doctor of Osteopathic Medicine,Surgeon,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.20912591411360357,0.40405246510869186,Content Format
+27,F,Doctor of Medicine,Physician,20.0,Neutral,2,1,0,Negative,1.0,4,8,2,0.036335968964426826,0.13355286625070595,Personalization
+33,M,Doctor of Dental Medicine,Dentist,30.0,Positive,8,3,1,Neutral,3.0,11,20,5,0.21823231253619416,0.41733928839151113,Content Relevance
+29,F,Doctor of Osteopathic Medicine,Surgeon,20.0,Neutral,2,1,0,Negative,1.0,4,8,2,0.05664182790799314,0.0989412824823443,Sender Name
+35,M,Doctor of Medicine,Physician,30.0,Positive,9,4,1,Neutral,4.0,12,23,5,0.1705118743785914,0.4297464340905131,Email Subject Line
